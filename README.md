@@ -1,4 +1,4 @@
-# <h1 align=center>**`PF_CONSULTORA_DATA`**</h1>
+# <h1 align=center>**`🏨PF_CONSULTORA_DATA🏨`**</h1>
 
 Proyecto de Data Science donde se analizó la base de datos de la plataforma *Yelp* sobre reseñas realizadas por clientes de diferentes negocios comerciales. Aplicando un stack tecnológico como Google Cloud Platform, implementación de Machine Learning, presentación de KPI's y dashboard por medio de Power BI.
 
