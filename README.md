@@ -22,16 +22,29 @@ Proyecto de Data Science donde se analizó la base de datos de la plataforma *Ye
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
+  ![Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Objetivo y Alcance
+## Rol a desarrollar
 
-El objetivo del proyecto se basa en realizar un análisis del mercado estadounidense para un cliente que pertenece a una cadena hotelera latinoamericana con el fin de expandir su negocio a la costa oeste. Se realizará una consulta detallada de la opinión de los usuarios de la plataforma *Yelp* y *Gmaps* sobre negocios afines al turismo y ocio. Por medio de un análisis de sentimiento, se buscará los rubros de los negocios que crecerán y decaerán, de esta manera, se conocerá las ubicaciones mas adecuadas para invertir en nuevos hoteles. Se desarrollará un sistema de recomendación para los usuarios que brinde la posibilidad de conocer nuevos hoteles basados en experiencias previas. Como resultado de este análisis se creará un dashboard interactivo donde se muestre indicadores claves de desempeño que tengan como propósito tomar decisiones acordes a los intereses del cliente y turistas con deseos de viajar.
+Contratados por una cadena hotelera latinoamericana con la visión de expandirse a los Estados Unidos, el rol a desarrollar será como consultores externos especializados en datos para la solución de sus ideas de negocio.
 
----
+## Objetivos
+
+**_Objetivos Generales_**
+
+- Realizar un análisis del mercado estadounidense para un cliente que pertenece a una cadena hotelera latinoamericana.
+- Realizar una consulta detallada de la opinión de los usuarios de la plataforma *Yelp* y *Gmaps* sobre negocios afines al turismo y ocio.
+- Determinar los rubros de los negocios que crecerán y decaerán, de esta manera, se conocerá las ubicaciones mas adecuadas para invertir en hoteles.
+
+**_Objetivos Específicos_**
+
+- Analizar los negocios relacionados al turismo de la costa oeste de los Estados Unidos.
+- Evaluar el flujo de personas en las zonas hoteleras y/o turísticas.
+- Desarrollar indicadores claves de desempeño que permitan a los usuarios o inversores tomar decisiones correspondientes al turismo.
+
 ## Contexto
----
+
 ## Relación entre las reseñas de usuarios y el desempeño y utilidad del negocio
 
 En la era digital, las reseñas de hoteles son una fuente de información fundamental para los viajeros. Antes de reservar una habitación, la mayoría de los clientes potenciales consultan las opiniones de otros usuarios para conocer sus experiencias y tomar una decisión informada. Las reseñas de hoteles pueden influir en la experiencia del cliente de varias maneras. 
@@ -70,3 +83,12 @@ En los últimos años, el sector hotelero y turístico de la costa oeste ha expe
 El sector hotelero y turístico de la costa oeste es un sector importante y en crecimiento. El sector seguirá desempeñando un papel importante en la economía de la región en los próximos años. Una de las principales razones del crecimiento del sector hotelero y turístico de la costa oeste es el aumento de la demanda de viajes internacionales. La región es un destino popular para los viajeros de todo el mundo, que acuden a ella atraídos por sus paisajes naturales, su rica historia y cultura, y su vibrante vida nocturna.
 
 El sector hotelero y turístico de la costa oeste también se ha beneficiado de la creciente popularidad de las vacaciones de naturaleza. La región ofrece una amplia gama de actividades al aire libre, como senderismo, ciclismo, surf y pesca. Estas actividades son cada vez más populares entre los viajeros, que buscan experiencias únicas y memorables.
+
+## Desarrollo del proyecto
+
+- La elaboración de este proyecto es de manera grupal, de este modo, se dividió en 3 áreas de trabajo: Ingeniería de datos, Línea de negocio y Administración de información.
+
+- Partimos de 2 datasets originarios de las plataformas de *Yelp* y *GMaps*, donde se encuentran datos desde el 2015 hasta el 2023.
+
+- El tiempo en el que se desarrolló el proyecto fue de 3 semanas.
+
