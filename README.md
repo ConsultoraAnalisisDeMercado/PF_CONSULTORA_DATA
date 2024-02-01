@@ -28,14 +28,14 @@ Proyecto de ciencia de datos (Data Science) que analiza y procesa información e
 
 ## Rol a desarrollar
 
-Representamos una empresa de consultoría en ciencia de datos (MID), que ha sido contratada por una cadena hotelera latinoamericana (GHL) para contribuir con el objetivo estratégico de expandir sus marcas hacia los Estados Unidos.  En ese orde de ideas, y luego de sostener mesas técnicas de trabajo, entre las partes fue acordado realizar un primer ejercicio de ingeniería informática que cubrirá los objetivos enunciados a continuación.
+Millennium Insights Data (MID) ha sido contratada por la cadena hotelera latinoamericana GHL, como parte integral del equipo estratégico que busca expandir las marcas de GHL hacia los Estados Unidos. Luego de cumplir el cronograma de mesas técnicas de trabajo, GHL y MID acordaron realizar un primer ejercicio de ingeniería informática que cubrirá dos (2) objetivos básicos.
 
 
 ## Objetivos
 
 1. Completar el producto mínimo viable de una aplicación web (móvil & PC), que permita a los clientes de GHL ingresar una ciudad destino en los Estados Unidos, y realizar consultas para conocer la calificación (ranking) de los hoteles de la localidad, fundamentando el análisis en las reseñas generales que previamente han hecho los visitantes a dichos establecimientos.
 
-2. Agregar una interfase (integrada a la aplicación descrita en el punto 1), que le ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
+2. Agregar una interfase (integrada a la aplicación descrita en el punto 1), que ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco (5) categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
 
 
 ## Alcance
