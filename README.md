@@ -1,4 +1,4 @@
-# <h1 align=center>**`🏨Millennium Insights Data🏨`**</h1>
+# <h1 align=center>**`🏨Millennium Insights Data (MID)🏨`**</h1>
 
 Proyecto de ciencia de datos (Data Science) que analiza y procesa información extraida de las plataformas GOOGLE y YELP,  cuyo  objeto es apoyar los procesos de toma de decisiones, fundamentados en el estudio detallado de las reseñas realizadas por clientes y usuarios de diferentes negocios comerciales. Para tal fin se proyecta la utilización de una pila tecnológica (Tech Stack) que incluye servicios en la nube de alojamiento, limpieza y proceso (Google Cloud Platform), así como aprendizaje automático (Machine Learning), y automatización de flujos de información.
 
@@ -28,7 +28,7 @@ Proyecto de ciencia de datos (Data Science) que analiza y procesa información e
 
 ## Rol a desarrollar
 
-Representamos una empresa de consultoría en ciencia de datos, que ha sido contratada por una cadena hotelera latinoamericana (NHL) para contribuir con el objetivo estratégico de expandir sus marcas hacia los Estados Unidos.  En ese orde de ideas, y luego de sostener mesas técnicas de trabajo, entre las partes fue acordado realizar un primer ejercicio de ingeniería informática que cubrirá los objetivos enunciados a continuación.
+Representamos una empresa de consultoría en ciencia de datos (MID), que ha sido contratada por una cadena hotelera latinoamericana (NHL) para contribuir con el objetivo estratégico de expandir sus marcas hacia los Estados Unidos.  En ese orde de ideas, y luego de sostener mesas técnicas de trabajo, entre las partes fue acordado realizar un primer ejercicio de ingeniería informática que cubrirá los objetivos enunciados a continuación.
 
 
 ## Objetivos
