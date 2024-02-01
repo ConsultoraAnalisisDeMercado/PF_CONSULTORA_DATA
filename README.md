@@ -99,7 +99,7 @@ Las áreas de desempeño trabajadas por el equipo a la fecha son:
 
 - Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo
 
-![pf_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/pf_stages.png)
+![PF_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/PF_stages.png)
 
 
      
