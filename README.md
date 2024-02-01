@@ -89,10 +89,10 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 - El equipo que afronta el proyecto está compuesto por cinco (5) personas; Micaela, Gerard, Mateo, Santiago y Jairo
 - Las áreas de desempeño trabajadas por el equipo a la fecha son:
-  **Arquitectura de datos --> Micaela, Gerard, Mateo, Santiago y Jairo**
-  **Ingeniería de datos --> Gerard, Mateo**
-  **Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo**
-  **Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo**
+### Arquitectura de datos --> Micaela, Gerard, Mateo, Santiago y Jairo***
+### Ingeniería de datos --> Gerard, Mateo**
+### Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo**
+### Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo**
 
      
 
