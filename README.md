@@ -1,4 +1,4 @@
-# <h1 align=center>**`🏨PF_CONSULTORA_DATA🏨`**</h1>
+# <h1 align=center>**`🏨Millennium Insights Data🏨`**</h1>
 
 Proyecto de ciencia de datos (Data Science) que analiza y procesa información extraida de las plataformas GOOGLE y YELP,  cuyo  objeto es apoyar los procesos de toma de decisiones, fundamentados en el estudio detallado de las reseñas realizadas por clientes y usuarios de diferentes negocios comerciales. Para tal fin se proyecta la utilización de una pila tecnológica (Tech Stack) que incluye servicios en la nube de alojamiento, limpieza y proceso (Google Cloud Platform), así como aprendizaje automático (Machine Learning), y automatización de flujos de información.
 
