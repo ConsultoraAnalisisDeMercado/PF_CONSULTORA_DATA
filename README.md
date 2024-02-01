@@ -48,7 +48,7 @@ Representamos una empresa de consultoría en ciencia de datos, que ha sido contr
 ## Contexto
 
 
-**Sector Hotelero y Turismo en la costa oeste (USA)**
+### Sector Hotelero y Turismo en la costa oeste (USA)
 
 La costa oeste de los Estados Unidos es un destino turístico de renombre mundial, conocido por sus impresionantes paisajes naturales, su rica historia y cultura, y su vibrante vida nocturna. El sector hotelero y turístico de la región es un importante motor económico, que genera millones de dólares en ingresos y crea miles de puestos de trabajo.
 
@@ -63,7 +63,7 @@ El sector hotelero y turístico de la costa oeste es un sector importante y en c
 El sector hotelero y turístico de la costa oeste también se ha beneficiado de la creciente popularidad de las vacaciones de naturaleza. La región ofrece una amplia gama de actividades al aire libre, como senderismo, ciclismo, surf y pesca. Estas actividades son cada vez más populares entre los viajeros, que buscan experiencias únicas y memorables.
 
 
-**Sobre la influencia de las reseñas**
+### Sobre la influencia de las reseñas
 
 En la era digital, las reseñas de hoteles son una fuente de información fundamental para los viajeros. Antes de reservar una habitación, la mayoría de los clientes potenciales consultan las opiniones de otros usuarios para conocer sus experiencias y tomar una decisión informada. Las reseñas de hoteles pueden influir en la experiencia del cliente de varias maneras: 
 
@@ -74,7 +74,7 @@ En la era digital, las reseñas de hoteles son una fuente de información fundam
 - Las reseñas influyen en la lealtad del cliente. Los clientes que tienen una experiencia positiva con un hotel son más propensos a reservarlo de nuevo en el futuro. Por el contrario, los clientes que tienen una experiencia negativa son menos propensos a reservar el hotel de nuevo.
 
 
-**La importancia de las reseñas de hoteles para el desempeño del hotel**
+### La importancia de las reseñas de hoteles para el desempeño del hotel
 
 Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar las reseñas para mejorar su servicio y satisfacción del cliente:
 
@@ -89,10 +89,10 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 - El equipo que afronta el proyecto está compuesto por cinco (5) personas; Micaela, Gerard, Mateo, Santiago y Jairo
 - Las áreas de desempeño trabajadas por el equipo a la fecha son:
-        - Arquitectura de datos --> Micaela, Gerard, Mateo, Santiago y Jairo
-        - Ingeniería de datos --> Gerard, Mateo
-        - Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo
-        - Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo
+  **Arquitectura de datos --> Micaela, Gerard, Mateo, Santiago y Jairo**
+  **Ingeniería de datos --> Gerard, Mateo**
+  **Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo**
+  **Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo**
 
      
 
