@@ -64,10 +64,11 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 ## Propuesta de KPIs
 
-1. Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el aumento o la disminución porcentual de aquellas reseñas que son categorizadas como ‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % satisfacción calidad de servicio = | cantidad reviews 'buenas' año actual | / | cantidad reviews 'buenas' año anterior| 
-- 
-- La temporalidad que en principio ha sido estandarizada para el análisis de la información extraída de las fuentes de datos es entre 2015 y 2023.
-- Las escalas que en principio serán utilizadas en la cualificación de los hoteles y sitios de interés es: Excelente, Bueno, Regular, Malo.
+1. Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el aumento o la disminución porcentual de aquellas reseñas que son categorizadas como ‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % satisfacción calidad de servicio = | cantidad reviews 'buenas' año actual | / | cantidad reviews 'buenas' año anterior |
+
+2. Determinar el flujo de visitantes que tienen los hoteles analizados durante las diferentes estaciones del año, midiendo el aumento o la disminución porcentual del total de reseñas realizadas por parte de clientes y usuarios de dichos establecimientos, con objeto de 	contrastar la popularidad del establecimiento según la época del año. Se sugiere una medición con periodicidad trimestral como marco temporal del indicador.  % popularidad segun época del año = | número total de reviews trimestre actual | / | número total de reviews trimestre anterior |
+
+3. Determinar el potencial turístico poblacional de la zona aledaña a los hoteles analizados, midiendo el aumento o la disminución porcentual del total de reseñas hechas por parte de clientes y usuarios que visitan establecimientos circundantes categorizados como de interés turístico; parques de atracciones, arte y entretenimiento, servicios financieros, ‘shopping', y lugares históricos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % potencial turístico = | Sumatoria total reviews por cada categoría año actual | / | Sumatoria total reviews por cada categoría año anterior | 
 
 
 ## Herramientas
@@ -99,13 +100,13 @@ El equipo que afronta el proyecto está compuesto por cinco (5) personas; Micael
   
 Las áreas de desempeño trabajadas por el equipo a la fecha son:
 
-- Arquitectura de datos --> Micaela, Gerard, Mateo, Santiago y Jairo
+- Arquitectura de datos --> Mateo, Jairo
 
 - Ingeniería de datos --> Gerard, Mateo
 
 - Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo
 
-- Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago y Jairo
+- Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago, Jairo
 
 ![PF_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/PF_stages.png)
 
