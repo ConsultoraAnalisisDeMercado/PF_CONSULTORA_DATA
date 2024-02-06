@@ -94,25 +94,22 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
   ![Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Áreas de desempeño del equipo y Desarrollo del proyecto
+
+## Etapas del proyecto
 
 El equipo que afronta el proyecto está compuesto por cinco (5) personas; Micaela, Gerard, Mateo, Santiago y Jairo
   
 Las áreas de desempeño trabajadas por el equipo a la fecha son:
 
-- Arquitectura de datos --> Mateo, Jairo
+![PF_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/PF_stages.png)
+
+
+## Áreas de desempeño del equipo 
+
+- Arquitectura de datos --> Mateo, Mica, Jairo
 
 - Ingeniería de datos --> Gerard, Mateo
 
 - Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo
 
 - Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago, Jairo
-
-![PF_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/PF_stages.png)
-
-
-     
-
-
-
-
