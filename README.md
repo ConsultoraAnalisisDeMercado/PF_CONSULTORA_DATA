@@ -64,9 +64,8 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 ## Propuesta de KPIs
 
-- Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el 	aumento o la disminución porcentual de aquellas reseñas que son categorizadas como 	‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una 	medición con periodicidad anual como marco temporal del indicador.
-![image](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/assets/87100178/10dfcd2d-481d-4ec5-af19-02b930c5b6bb)
-
+1. Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el aumento o la disminución porcentual de aquellas reseñas que son categorizadas como ‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % satisfacción calidad de servicio = | cantidad reviews 'buenas' año actual | / | cantidad reviews 'buenas' año anterior| 
+- 
 - La temporalidad que en principio ha sido estandarizada para el análisis de la información extraída de las fuentes de datos es entre 2015 y 2023.
 - Las escalas que en principio serán utilizadas en la cualificación de los hoteles y sitios de interés es: Excelente, Bueno, Regular, Malo.
 
