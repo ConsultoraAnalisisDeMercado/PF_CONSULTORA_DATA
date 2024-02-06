@@ -96,10 +96,7 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 
 ## Etapas del proyecto
-
-El equipo que afronta el proyecto está compuesto por cinco (5) personas; Micaela, Gerard, Mateo, Santiago y Jairo
   
-Las áreas de desempeño trabajadas por el equipo a la fecha son:
 
 ![PF_stages.png](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/raw/main/images/PF_stages.png)
 
