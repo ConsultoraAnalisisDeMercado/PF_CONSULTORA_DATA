@@ -2,47 +2,10 @@
 
 Proyecto de ciencia de datos (Data Science) que analiza y procesa información extraida de las plataformas GOOGLE y YELP,  cuyo  objeto es apoyar los procesos de toma de decisiones, fundamentados en el estudio detallado de las reseñas realizadas por clientes y usuarios de diferentes negocios comerciales. Para tal fin se proyecta la utilización de una pila tecnológica (Tech Stack) que incluye servicios en la nube de alojamiento, limpieza y proceso (Google Cloud Platform), así como aprendizaje automático (Machine Learning), y automatización de flujos de información.
 
-## Herramientas
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 📚 &nbsp;
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
-- 🛢 &nbsp;
-  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
-  [![Google Cloud Platform](https://img.shields.io/badge/GoogleCloudPlatform-Up-<COLOR>.svg)](https://shields.io/)
-- 📊 &nbsp;
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-- ⚙ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 
 ## Rol a desarrollar
 
 Millennium Insights Data (MID) ha sido contratada por la cadena hotelera latinoamericana GHL, como parte integral del equipo estratégico que busca expandir las marcas de GHL hacia los Estados Unidos. Luego de cumplir el cronograma de mesas técnicas de trabajo, GHL y MID acordaron realizar un primer ejercicio de ingeniería informática que cubrirá dos (2) objetivos básicos.
-
-
-## Objetivos
-
-1. Completar el producto mínimo viable de una aplicación web (móvil & PC), que permita a los clientes de GHL ingresar una ciudad destino en los Estados Unidos, y realizar consultas para conocer la calificación (ranking) de los hoteles de la localidad, fundamentando el análisis en las reseñas generales que previamente han hecho los visitantes a dichos establecimientos.
-
-2. Agregar una interfase (integrada a la aplicación descrita en el punto 1), que ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco (5) categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
-
-
-## Alcance
-
-- El área geográfica cubierta que en principio asumirá el proyecto es la Costa Oeste de los Estados Unidos: California, Oregon, Washington, Nevada y Arizona.
-- La temporalidad que en principio ha sido estandarizada para el análisis de la información extraída de las fuentes de datos es entre 2015 y 2023.
-- Las escalas que en principio serán utilizadas en la cualificación de los hoteles y sitios de interés es: Excelente, Bueno, Regular, Malo. 
 
 
 ## Contexto
@@ -84,6 +47,52 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 - Las reseñas pueden ayudar a los hoteles a gestionar su reputación. Las reseñas negativas pueden dañar la reputación de un hotel. Los hoteles pueden responder a las reseñas negativas de manera oportuna y profesional para minimizar el daño a su reputación.
 
+
+## Objetivos
+
+1. Completar el producto mínimo viable de una aplicación web (móvil & PC), que permita a los clientes de GHL ingresar una ciudad destino en los Estados Unidos, y realizar consultas para conocer la calificación (ranking) de los hoteles de la localidad, fundamentando el análisis en las reseñas generales que previamente han hecho los visitantes a dichos establecimientos.
+
+2. Agregar una interfase (integrada a la aplicación descrita en el punto 1), que ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco (5) categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
+
+
+## Alcance
+
+- El área geográfica cubierta que en principio asumirá el proyecto es la Costa Oeste de los Estados Unidos: California, Oregon, Washington, Nevada y Arizona.
+- La temporalidad que en principio ha sido estandarizada para el análisis de la información extraída de las fuentes de datos es entre 2015 y 2023.
+- Las escalas que en principio serán utilizadas en la cualificación de los hoteles y sitios de interés es: Excelente, Bueno, Regular, Malo.
+   
+
+## Propuesta de KPIs
+
+- Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el 	aumento o la disminución porcentual de aquellas reseñas que son categorizadas como 	‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una 	medición con periodicidad anual como marco temporal del indicador.
+![image](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_DATA/assets/87100178/10dfcd2d-481d-4ec5-af19-02b930c5b6bb)
+
+- La temporalidad que en principio ha sido estandarizada para el análisis de la información extraída de las fuentes de datos es entre 2015 y 2023.
+- Las escalas que en principio serán utilizadas en la cualificación de los hoteles y sitios de interés es: Excelente, Bueno, Regular, Malo.
+
+
+## Herramientas
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 📚 &nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+- 🛢 &nbsp;
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
+  [![Google Cloud Platform](https://img.shields.io/badge/GoogleCloudPlatform-Up-<COLOR>.svg)](https://shields.io/)
+- 📊 &nbsp;
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- ⚙ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![Colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Áreas de desempeño del equipo y Desarrollo del proyecto
 
