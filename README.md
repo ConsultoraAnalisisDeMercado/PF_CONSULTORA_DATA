@@ -105,8 +105,8 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 - Arquitectura de datos --> Mateo, Mica, Jairo
 
-- Ingeniería de datos --> Gerard, Mateo
+- Ingeniería de datos --> Gerardo, Mateo
 
 - Problemática(s) y línea(s) de negocio --> Micaela, Santiago, Jairo
 
-- Visualización y StoryTelling -->  Micaela, Gerard, Mateo, Santiago, Jairo
+- Visualización y StoryTelling -->  Micaela, Gerardo, Mateo, Santiago, Jairo
