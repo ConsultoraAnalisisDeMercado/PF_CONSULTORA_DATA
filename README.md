@@ -50,9 +50,9 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 ## Objetivos
 
-1. Completar el producto mínimo viable de una aplicación web (móvil & PC), que permita a los clientes de GHL ingresar una ciudad destino en los Estados Unidos, y realizar consultas para conocer la calificación (ranking) de los hoteles de la localidad, fundamentando el análisis en las reseñas generales que previamente han hecho los visitantes a dichos establecimientos.
+1. Completar el producto mínimo viable de una solución de ciencia de datos, que permita a los clientes de GHL ingresar una ciudad destino en los Estados Unidos, y realizar consultas para conocer la calificación (ranking) de los hoteles de la localidad, fundamentando el análisis en las reseñas generales que previamente han hecho los visitantes a dichos establecimientos.
 
-2. Agregar una interfase (integrada a la aplicación descrita en el punto 1), que ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco (5) categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
+2. Agregar una interfase (integrada a la solución descrita en el punto 1), que ofrezca a los clientes de GHL, una vez escogido el hotel , la información y visualización sobre potenciales sitios de interés circundantes bajo cinco (5) categorías principales: parques de atracciones, arte y entretenimiento, servicios financieros, 'shopping', y lugares históricos. 
 
 
 ## Alcance
@@ -66,7 +66,7 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden utilizar
 
 1. Determinar la satisfacción con la calidad del servicio de los hoteles analizados, midiendo el aumento o la disminución porcentual de aquellas reseñas que son categorizadas como ‘buenas’ por parte de clientes y usuarios de dichos establecimientos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % satisfacción calidad de servicio = | cantidad reviews 'buenas' año actual | / | cantidad reviews 'buenas' año anterior |
 
-2. Determinar el flujo de visitantes que tienen los hoteles analizados durante las diferentes estaciones del año, midiendo el aumento o la disminución porcentual del total de reseñas realizadas por parte de clientes y usuarios de dichos establecimientos, con objeto de 	contrastar la popularidad del establecimiento según la época del año. Se sugiere una medición con periodicidad trimestral como marco temporal del indicador.  % popularidad segun época del año = | número total de reviews trimestre actual | / | número total de reviews trimestre anterior |
+2. Determinar el flujo de visitantes que tienen los estados que conforman la costa oeste de los Estados Unidos, durante las diferentes estaciones del año, midiendo el aumento o la disminución porcentual del total de reseñas realizadas por parte de clientes y usuarios de dichos establecimientos. Se sugiere una medición con periodicidad trimestral como marco temporal del indicador.  % popularidad segun época del año = | número total de reviews trimestre actual | / | número total de reviews trimestre anterior |
 
 3. Determinar el potencial turístico poblacional de la zona aledaña a los hoteles analizados, midiendo el aumento o la disminución porcentual del total de reseñas hechas por parte de clientes y usuarios que visitan establecimientos circundantes categorizados como de interés turístico; parques de atracciones, arte y entretenimiento, servicios financieros, ‘shopping', y lugares históricos. Se sugiere una medición con periodicidad anual como marco temporal del indicador. % potencial turístico = | Sumatoria total reviews por cada categoría año actual | / | Sumatoria total reviews por cada categoría año anterior | 
 
