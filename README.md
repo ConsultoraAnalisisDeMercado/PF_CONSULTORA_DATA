@@ -31,7 +31,7 @@ Las reseñas son una herramienta valiosa para los hoteles ya que pueden ser usad
 
 ## 📌 Propuesta
 
-Como se mencionó anteriormente, nuestro alcance será la costa oeste de EEUU. Se analizará y procesará información extraida de las plataformas de Google y Yelp que serán usadas como apoyo para el proceso de la toma de decisiones. Se realizará un análisis de datos donde usaremos las reseñas de los clientes y usuarios de los diferentes negocios comerciales, con estas reseñas haremos un sistema de recomendación para usuarios donde al usuario le muestre los locales más cercanos de donde se encuentra su hotel y un top de hoteles con mejores reseñas. Esto se encontrará en una aplicación. Para más información consulte nuestro [wiki]() ubicado en la parte superior de este repositorio, también se presentará la estructura de este en la parte inferior del readme.
+Como se mencionó anteriormente, nuestro alcance será la costa oeste de EEUU. Se analizará y procesará información extraida de las plataformas de Google y Yelp que serán usadas como apoyo para el proceso de la toma de decisiones. Se realizará un análisis de datos donde usaremos las reseñas de los clientes y usuarios de los diferentes negocios comerciales, con estas reseñas haremos un sistema de recomendación para usuarios donde al usuario le muestre los locales más cercanos de donde se encuentra su hotel y un top de hoteles con mejores reseñas. Esto se encontrará en una aplicación. Para más información consulte nuestro [wiki](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki/1.Home) ubicado en la parte superior de este repositorio, también se presentará la estructura de este en la parte inferior del readme.
 
 
 ## 📌 Estructura del repositorio
