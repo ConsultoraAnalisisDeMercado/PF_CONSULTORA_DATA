@@ -37,10 +37,10 @@ Como se mencionó anteriormente, nuestro alcance será la costa oeste de EEUU. S
 ## 📌 Estructura del repositorio
 
 
-**[Projectos]()** Gestión de los sprints y tareas.<br/> 
-├─ [Diagrama de Gantt]()<br />
-├─ [Monday]()<br />
-├─ [GitHub Project]()<br />
+**[Projectos](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/projects)** Gestión de los sprints y tareas.<br/> 
+├─ [Diagrama de Gantt](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki/2.Directriz#-diagrama-de-gantt-)<br />
+├─ [Monday](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki/2.Directriz#-monday-)<br />
+├─ [GitHub Project](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki/2.Directriz#-github-projects-)<br />
 
 **[Wiki](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki)** Acá encontrarán la documentación completa.<br /> 
 ├─ [Directriz](https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/wiki/2.Directriz)<br />
