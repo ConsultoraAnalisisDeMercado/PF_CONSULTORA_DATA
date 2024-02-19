@@ -67,7 +67,6 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🎥Video de presentación
-
 <a href="https://www.youtube.com/watch?v=5w9S8Kiflig">
-  <img src="ruta/a/tu/imagen.png" alt="Video">
+  <img src="https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/blob/main/src/video_cap" alt="Video">
 </a>
