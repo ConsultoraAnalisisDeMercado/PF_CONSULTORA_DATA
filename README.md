@@ -66,3 +66,6 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+## 🎥Video de presentación
+
+[video_MID](https://www.youtube.com/watch?v=5w9S8Kiflig)
