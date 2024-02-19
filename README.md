@@ -68,5 +68,5 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 ## 🎥Video de presentación
 <a href="https://www.youtube.com/watch?v=5w9S8Kiflig" target="_blank">
-  <img src="https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/blob/main/src/video_cap" alt="Video" width="200" height="150">
+  <img src="https://github.com/ConsultoraAnalisisDeMercado/PF_CONSULTORA_MID/blob/main/src/video_cap" alt="Video">
 </a>
